@@ -1,10 +1,10 @@
 ## Обо мне 🔭:
 1. Меня зовут Георгий, мне 18 
-2. Живу и учусь в Питере
+2. Живу и учусь в Санкт-Петербурге
 3. Учусь в ИТМО
 
-## Мои сотсети 📫 :
-|Название|Никнем|
+## Мои соцсети 📫 :
+|Название|Никнейм|
 |---|---|
 |tiktok|retor555|
 |steam|2010?|
@@ -46,9 +46,9 @@ void QuickSort(int a[], int left, int right) {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <!-- Карточка с активностью -->
-![GitHub Streak](https://streak-stats.demolab.com?user=E5capada&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=retor55&theme=radical)
 <!-- Карточка с языками программирования -->
-![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=E5capada&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=retor55&layout=compact&theme=radical)
 <!--
 **retor55/retor55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
