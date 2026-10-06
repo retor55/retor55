@@ -14,7 +14,7 @@
 >I guess we'll never know
 
 ## Моя любимая сортировка :
-'''c++
+'''С++
 void QuickSort(int a[], int left, int right) {
   if (left >= right) {
     return;
