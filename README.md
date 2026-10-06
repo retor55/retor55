@@ -14,7 +14,7 @@
 >I guess we'll never know
 
 ## Моя любимая сортировка :
-'''С++
+```С++
 void QuickSort(int a[], int left, int right) {
   if (left >= right) {
     return;
@@ -39,7 +39,7 @@ void QuickSort(int a[], int left, int right) {
   QuickSort(a, left, j);
   QuickSort(a, i, right);
 }
-'''
+```
 ## Статистика
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
